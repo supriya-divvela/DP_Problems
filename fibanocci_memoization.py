@@ -5,3 +5,13 @@ def fibanocci(n,mem={1:1,2:1}):
    mem[n]=x
    return x
 print(fibanocci(int(input())))
+
+
+'''
+ip:45
+op:1134903170
+
+
+ip:30
+op:39088169
+'''
